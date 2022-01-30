@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hei!
+My name is Lord_Vlad, I am a hobby game developer, web developer, Minecraft modder, pixel artist and everything else I like.
 
 <!--
 **Lord-Vlad/Lord-Vlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
